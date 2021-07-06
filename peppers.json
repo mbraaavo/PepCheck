@@ -1,0 +1,82 @@
+[
+{"Name": "Anaheim",
+ "Nicknames": 
+ ["California Chile", 
+  "Magdalena",
+  "New Mexico Peppers", 
+  "Chile Seco Del Norte"],   
+"Origin": "New Mexico",
+"Scoville Scale MIN": 500,
+"Scoville Scale MAX": 5000,
+"Heat": "Mild", 
+"Image": null
+},
+
+{"Name": "Bell Pepper",
+"Nicknames":
+["Sweet Peppers", 
+  "Capsicum",
+"Pepper"],
+"Origin": "Mexico, Central America, and upper part of South America",
+"Scoville Scale MIN": 0,
+"Scoville Scale MAX": null,
+"Heat": "Sweet",
+"Image": null 
+}
+,
+
+{"Name": "Habanero",
+    "Nicknames": 
+    ["The Chinese Pepper", 
+     "Caribbean Red",
+     "Chocolate Habanero"],
+    "Origin": "The Amazonas Region",
+    "Scoville Scale MIN": 100000,
+    "Scoville Scale MAX": 350000,
+    "Heat": "HOT",
+    "Image": null
+},
+
+{"Name": "Jalapeno",
+ "Nicknames": 
+ ["Huachinango", 
+  "Chile Gordo"],
+ "Origin": "Xalapa, Veracruz",
+ "Scoville Scale MIN": 3500,
+ "Scoville Scale MAX": 8000,
+ "Heat": "Medium",
+ "Image": null
+},
+
+{"Name": "Pepperoncini",
+  "Nicknames": 
+  ["Peperone", 
+   "Friggitello",
+   "Tuscan Peppers"],
+  "Origin": "Italy and Greece",
+  "Scoville Scale MIN": 0,
+  "Scoville Scale MAX": 500,
+  "Heat": "Sweet",
+  "Image": null
+ 
+ },
+
+{"Name": "Poblano",
+ "Nicknames": "Chile Ancho",
+ "Origin": "Puebla, Mexico",
+ "Scoville Scale MIN": 1000,
+ "Scoville Scale MAX": 2500,
+ "Heat": "Mild",
+ "Image": null
+},
+
+{"Name": "Serrano",
+"Nicknames": null,
+"Origin": "Sierras Mountain Range, Mexico",
+"Scoville Scale MIN": 10000,
+"Scoville Scale MAX": 25000,
+"Heat": "Hot",
+"Image": null
+}
+
+]
